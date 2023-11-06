@@ -64,5 +64,5 @@ React
 <br>HTML5
 <br>CSS
 
-
-
+## Contributing
+Contributions are welcome.
